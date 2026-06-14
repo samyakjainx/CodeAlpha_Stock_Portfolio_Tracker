@@ -168,7 +168,8 @@ Total Portfolio Value : $1400
 
 ## Main Menu
 
-> *(Add screenshot here)*
+<img width="2164" height="748" alt="menu" src="https://github.com/user-attachments/assets/21ab0f2e-25f8-4db1-b809-d152c6b17abf" />
+
 
 ```
 screenshots/menu.png
@@ -178,7 +179,8 @@ screenshots/menu.png
 
 ## Available Stocks
 
-> *(Add screenshot here)*
+<img width="2130" height="948" alt="stocks" src="https://github.com/user-attachments/assets/7b073630-1168-47df-9c46-8e3b61e5b003" />
+
 
 ```
 screenshots/stocks.png
@@ -188,7 +190,8 @@ screenshots/stocks.png
 
 ## Portfolio Report
 
-> *(Add screenshot here)*
+<img width="1780" height="1298" alt="report" src="https://github.com/user-attachments/assets/73facb0f-feb4-4ca5-9079-53a4165b11a4" />
+
 
 ```
 screenshots/report.png
@@ -198,7 +201,8 @@ screenshots/report.png
 
 ## Report Saved Successfully
 
-> *(Add screenshot here)*
+<img width="1712" height="822" alt="save_report" src="https://github.com/user-attachments/assets/d5460973-a4bb-45db-b05b-ce33fea7c7b7" />
+
 
 ```
 screenshots/save_report.png
