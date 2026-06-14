@@ -212,7 +212,8 @@ screenshots/save_report.png
 
 # 🎥 Demo
 
-> *(Add your demo GIF here after recording)*
+<img width="2880" height="1700" alt="demo" src="https://github.com/user-attachments/assets/4f08de35-5711-42d4-aa23-9e81ca97ee7f" />
+
 
 ```
 assets/demo.gif
